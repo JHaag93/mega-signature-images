@@ -18,6 +18,7 @@ change and break every email already sent.
 | `mega-logo-white.png` | 327 × 104 | up to 110 wide | Web pages and PDFs on a navy or dark background. **Never in email.** |
 | `source/mega-logo-original.png` | 327 × 111 | — | The original from megapayments.com, kept as the source |
 | `tools/build-logo-assets.py` | — | — | Rebuilds the four logo files from the original |
+| `partners/korona-pos-banner.png` | 1200 × 675 | full card width (about 546) | KORONA POS logo and hardware on solid orange, from koronapos.com's own sharing image (Nov 3, 2026). No see-through areas, so it's dark-mode safe |
 
 The `-tile` files are the logo on a white rounded tile, made at 3× so they stay sharp on phones.
 
