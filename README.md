@@ -20,6 +20,7 @@ change and break every email already sent.
 | `tools/build-logo-assets.py` | — | — | Rebuilds the four logo files from the original |
 | `partners/korona-pos-banner.png` | 1200 × 675 | full card width (about 546) | KORONA POS logo and hardware on solid orange, from koronapos.com's own sharing image (Nov 3, 2026). No see-through areas, so it's dark-mode safe |
 | `partners/spoton-handheld-2-table.jpg` | 1200 × 991 | full card width (about 546) | A server taking payment at the table on the SpotOn Handheld 2.0, cropped from SpotOn's own handheld sell sheet (Oct 27, 2026). Solid photo, dark-mode safe. Used in the Nov 11 agent update |
+| `partners/square-kiosk-21-5.jpg` | 1200 × 675 | full card width (about 550) | The new Square Kiosk (21.5"), front and three-quarter views on their countertop stands, on a built-in light gray background (Square's own product cut-outs from squareup.com). No see-through areas, so it's dark-mode safe. Used in the Nov 20 agent update |
 | `products/pays-retail-kit-dejavoo-p1.jpg` | 1200 × 600 | full card width (about 550) | PAYS Retail Kit and Dejavoo P1 side by side on solid white (makers' own product photos), for merchant proposal emails (Nov 7, 2026). Dark-mode safe |
 | `products/korona-joy-j14-pax-a80.jpg` | 1200 × 600 | full card width (about 550) | Partner Tech Joy J14 register (KORONA bundle) and PAX A80 terminal on solid white (makers' own product photos), for merchant proposal emails (Nov 7, 2026). Dark-mode safe |
 
