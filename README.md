@@ -23,6 +23,7 @@ change and break every email already sent.
 | `partners/square-kiosk-21-5.jpg` | 1200 × 675 | full card width (about 550) | The new Square Kiosk (21.5"), front and three-quarter views on their countertop stands, on a built-in light gray background (Square's own product cut-outs from squareup.com). No see-through areas, so it's dark-mode safe. Used in the Nov 20 agent update |
 | `products/pays-retail-kit-dejavoo-p1.jpg` | 1200 × 600 | full card width (about 550) | PAYS Retail Kit and Dejavoo P1 side by side on solid white (makers' own product photos), for merchant proposal emails (Nov 7, 2026). Dark-mode safe |
 | `products/korona-joy-j14-pax-a80.jpg` | 1200 × 600 | full card width (about 550) | Partner Tech Joy J14 register (KORONA bundle) and PAX A80 terminal on solid white (makers' own product photos), for merchant proposal emails (Nov 7, 2026). Dark-mode safe |
+| `seasonal/thanksgiving-2026-pie-chart.png` | 1200 × 600 | full card width (about 550) | Thanksgiving 2026 agent emails: a pumpkin pie drawn as a "Q4 Results" pie chart (Pumpkin Pie 100%, Missing Slice Under Investigation) and "Happy Thanksgiving, Mega Team." Drawn by Claude Nov 21, 2026 (no outside artwork), solid navy and cream background, so dark-mode safe. Source: `source/thanksgiving-2026-pie-chart-source.html`. |
 
 The `-tile` files are the logo on a white rounded tile, made at 3× so they stay sharp on phones.
 
