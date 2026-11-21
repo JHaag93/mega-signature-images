@@ -24,6 +24,8 @@ change and break every email already sent.
 | `products/pays-retail-kit-dejavoo-p1.jpg` | 1200 × 600 | full card width (about 550) | PAYS Retail Kit and Dejavoo P1 side by side on solid white (makers' own product photos), for merchant proposal emails (Nov 7, 2026). Dark-mode safe |
 | `products/korona-joy-j14-pax-a80.jpg` | 1200 × 600 | full card width (about 550) | Partner Tech Joy J14 register (KORONA bundle) and PAX A80 terminal on solid white (makers' own product photos), for merchant proposal emails (Nov 7, 2026). Dark-mode safe |
 | `seasonal/thanksgiving-2026-pie-chart.png` | 1200 × 600 | full card width (about 550) | Thanksgiving 2026 agent emails: a pumpkin pie drawn as a "Q4 Results" pie chart (Pumpkin Pie 100%, Missing Slice Under Investigation) and "Happy Thanksgiving, Mega Team." Drawn by Claude Nov 21, 2026 (no outside artwork), solid navy and cream background, so dark-mode safe. Source: `source/thanksgiving-2026-pie-chart-source.html`. |
+| `seasonal/thanksgiving-2026-turkey-banner.jpg` | 1200 × 977 | full width (about 550) | Thanksgiving 2026 email banner: a cartoon turkey in a navy scarf holding a pumpkin pie (one slice missing, whipped cream centered), over a navy strip with "Happy Thanksgiving, Mega Team." set in Arial Bold by us (not AI lettering). Art generated Nov 21, 2026 with OpenAI's image model through Codex (Justin picked it over two other concepts); original at `source/thanksgiving-2026-turkey-art.png`. Solid cream and navy, dark-mode safe. |
+| `seasonal/thanksgiving-2026-turkey-card.jpg` | 720 × 732 | about 300 wide | The same turkey cropped tight, no words, for the "Leftovers 2.0" card in the Nov 23 agent email. |
 
 The `-tile` files are the logo on a white rounded tile, made at 3× so they stay sharp on phones.
 
